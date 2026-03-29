@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.me,
+.no-me {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.me {
+    background-color: hsl(255 44% 30%);
+    color: white;
+}
+
+.no-me {
+    background-color: hsl(53 100% 50%);
+}
